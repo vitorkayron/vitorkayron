@@ -1,7 +1,7 @@
 ### Olá! Eu sou Vitor Kayron, seja bem-vindo ao meu GitHub! 👋
 
 
-- 🌱 Estudando Python
+- 🌱 Desenvolvedor Back-end Python, utilizando o framework Django
 - 📫 Contato: vitork2016@gmail.com
 
 <div align="center">
